@@ -25,11 +25,9 @@ Concept:<ul>
 <li>What school Southworth is at </li> <p>
 </ul>
 
-<img src="planetarium-04.jpg"> <img src="planetarium-02.jpg">
+<img src="planetarium-04 Small.jpeg"> <img src="planetarium-02 Small.jpeg">
 </p> <a href="https://drive.google.com/drive/folders/1bzb5p6-dfZts3YMN2jPRoMmNl0E3Ad5S"> Illustrator Logo one <a/>
 </p> <a href="https://drive.google.com/drive/folders/1bzb5p6-dfZts3YMN2jPRoMmNl0E3Ad5S"> Illustrator Logo two <a/>
-
-</p> <img src="Adalei Brooks - Cryptic.jpg">
 
 </body>
 </html>
@@ -46,4 +44,4 @@ Goals: <ul>
 Concept:<ul>
 <li> My inspiration for my cryptid is flying squirrels and chameleons (specifically the one from frozen 2). I want my cryptid to question what animals exist in our deep forests/jungles and what happens when multiple animals become one? What traits does it inherent? Is it better suited for its environment? 
 </ul>
-<img src="Cryptid - Adalei Brooks.jpg"> 
+<img src="Cryptid - Adalei Brooks (1).jpg"> 
