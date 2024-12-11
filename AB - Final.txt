@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Final Portfolio - Adalei Brooks</h1>
+
+<b> <p>Southworth Planetarium - Project 1</p> </b>
+
+<p> Ideas:<ul>
+<li> I want to use usm colors somewhere in the logo and stick to those colors and complementary colors </li>
+<li> Earth with a sash that has its name on it </li>
+<li> The sash would be USM yellow and the writing on Southworth would be USM blue
+Movement would be portrayed here
+<li> I want there to be some overlapping of shapes</li>
+<li> A telescope that looks at space with the name written on the side</li>
+</ul>
+Goals: <ul>
+<li>For people to know that it is a planetarium without the word in the logo. The only text to be Southworth so that it stands out from other planetariums.</li>
+<li>Something simple yet effective</li>
+<li>For the logo to attract more people to the planetarium</li>
+</ul>
+Concept:<ul>
+<li>My artwork answers the question of what Southworth is </li>
+<li>What type of events are held there </li>
+<li>What school Southworth is at </li> <p>
+</ul>
+
+<img src="planetarium-04.jpg"> <img src="planetarium-02.jpg">
+</p> <a href="https://drive.google.com/drive/folders/1bzb5p6-dfZts3YMN2jPRoMmNl0E3Ad5S"> Illustrator Logo one <a/>
+</p> <a href="https://drive.google.com/drive/folders/1bzb5p6-dfZts3YMN2jPRoMmNl0E3Ad5S"> Illustrator Logo two <a/>
+
+</p> <img src="Adalei Brooks - Cryptic.jpg">
+
+</body>
+</html>
+
+<b> <p>Cryptid - Project 2</p> </b>
+
+<p> Ideas:<ul>
+<li>For my cryptid I wanted it to look like a dinosaur or something that you would have no possibility of seeing in real life. 
+I wanted my cryptid to by shy and lurk in shadows and water. I also wanted the audience to be curious about it but also respectful because due to the unknown of the cryptid.
+</ul>
+Goals: <ul>
+<li> I wanted my proposed piece to work by merging multiple real life animals together to create a cryptid with the features listed above. The story that goes along with my cryptid will also help viewers question its existence and help them understand how it acts.
+</ul>
+Concept:<ul>
+<li> My inspiration for my cryptid is flying squirrels and chameleons (specifically the one from frozen 2). I want my cryptid to question what animals exist in our deep forests/jungles and what happens when multiple animals become one? What traits does it inherent? Is it better suited for its environment? 
+</ul>
+<img src="Cryptid - Adalei Brooks.jpg"> 
